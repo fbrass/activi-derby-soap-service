@@ -59,7 +59,7 @@ public class App {
         
         // Starts web service
         System.out.println("SOAP WS Endpoint listens ...");
-        Endpoint.publish("http://localhost:9876/es", new EntityServerImpl());
+        Endpoint.publish("http://localhost:9876/ps", new PartServer());
 
     }
 }
