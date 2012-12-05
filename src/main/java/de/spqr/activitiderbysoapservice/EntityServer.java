@@ -8,7 +8,7 @@ import javax.jws.WebService;
 import javax.jws.soap.SOAPBinding;
 
 /**
- * Interface for the web service server
+ * Interface for the car part web service server
  *
  * @author said
  */
