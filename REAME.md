@@ -1,4 +1,3 @@
-Datenbank für Guidos Bachelor Arbeit. 
+#Database for Guido's bachelor assignment. 
 
-Beim Ausführen der jar wird eine derby-Datenbank initialisiert, mit Teilen gefüllt und ein Webservice gestartet.
-Es besteht die Möglichkeit zu Testzwecken die Anzahl der Teile in der Datenbank zu verringern.
+The jar initalizes a Derby-database, adds parts and starts a webservice. It is possible to reduce the amount of parts for test purposes.
